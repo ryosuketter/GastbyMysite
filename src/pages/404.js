@@ -3,10 +3,10 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-export default ({ data }) => {
+export default ({ location }) => {
   return (
     <Layout>
-      <SEO pagetitle=" ページが見つかりませんお" />
+      <SEO pagetitle=" ページが見つかりませんお" pagepath={location.pathname} />
       <h1 style={{ padding: "20vh", textAlign: "center" }}>
         お探しのページは見つかりませんでした
       </h1>
