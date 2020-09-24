@@ -8,7 +8,7 @@ import { faUtensils, faCheckSquare } from "@fortawesome/free-solid-svg-icons"
 export default ({ data }) => {
   return (
     <Layout>
-      <div class="eyecatch">
+      <div className="eyecatch">
         <figure>
           <Img
             fluid={data.about.childImageSharp.fluid}
