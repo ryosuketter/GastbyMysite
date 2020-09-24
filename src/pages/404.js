@@ -1,10 +1,12 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 
 export default ({ data }) => {
   return (
     <Layout>
+      <SEO pagetitle=" ページが見つかりませんお" />
       <h1 style={{ padding: "20vh", textAlign: "center" }}>
         お探しのページは見つかりませんでした
       </h1>
