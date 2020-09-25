@@ -97,3 +97,23 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## Memo
+
+読んでいる本
+
+[『Webサイト高速化のための　静的サイトジェネレーター活用入門』サポートサイト \| マイナビブックス](https://book.mynavi.jp/supportsite/detail/9784839973001.html)
+
+Repository
+
+[ebisucom/gatsbyjs\-book: 『Webサイト高速化のための 静的サイトジェネレーター活用入門 \- GatsbyJSで実現する高速＆実用的なサイト構築』のダウンロードデータです。](https://github.com/ebisucom/gatsbyjs-book)
+
+ローカルデータ
+
+```
+/Users/ryosuke/Downloads
+```
+
+におそらくある。
+
+Contentfulがクレカ紐付け必須のため、第２部の学習は始めていません。
